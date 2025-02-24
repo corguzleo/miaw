@@ -1,9 +1,5 @@
-<html>
-  <head>
+
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  </head>
-  <body>
-  </body>
   <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
@@ -23,5 +19,3 @@
 	};
 </script>
 <script type='text/javascript' src='https://clozano-241105-36-demo.my.site.com/ESWSDOMessagingforWeb1730841210419/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
-</html>
