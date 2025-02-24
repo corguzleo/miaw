@@ -3,7 +3,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   </head>
   <body>
-    <h1>agentforce</h1>
   </body>
   <script type='text/javascript'>
 	function initEmbeddedMessaging() {
